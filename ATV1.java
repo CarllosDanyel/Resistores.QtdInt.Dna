@@ -20,7 +20,7 @@ public class ATV1 {
     }
 
     public static void main(String[] args) {
-        System.out.println(colorCode("amarelo", "branco")); // Deve imprimir 15
+        System.out.println(colorCode("amarelo", "branco")); 
     }
 }
 
